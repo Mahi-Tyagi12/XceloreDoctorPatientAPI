@@ -1,0 +1,16 @@
+package com.xcelore;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+@RestController
+@RequestMapping("/patients")
+public class PatientController {
+    @Autowired
+    private PatientService patientService;
+
+    @GetMapping("/{id}")
+    public Patient getPatient(@PathVariable Long id) {
+        return patientService.getPatientById(id).orElse(null);
+    }
+}
