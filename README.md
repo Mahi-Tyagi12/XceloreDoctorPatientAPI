@@ -10,15 +10,14 @@ This project manages doctor and patient information, providing functionalities s
 - Postman
 
 ## 🚀 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/XceloreDoctorPatientAPI.git
+Clone the repository:
+git clone https://github.com/yourusername/XceloreDoctorPatientAPI.git
 Navigate to the project directory:
 cd XceloreDoctorPatientAPI
 Build the project:
 mvn clean install
 Run the application:
-mvn spring-boot:run
+mvn spring-boot: run
 
 📬 API Endpoints
 POST /addDoctor: Add a new doctor.
