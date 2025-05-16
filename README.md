@@ -31,11 +31,10 @@ The Postman collection used for testing the APIs is included in the repository a
 
 🖼️ API Request and Response Screenshots
 
-!(screenshots/Screenshot_2025-05-16_123634.png)
-!(screenshots/Screenshot_2025-05-16_123733.png)
-!(screenshots/Screenshot_2025-05-16_123916.png)
-!(screenshots/Screenshot_2025-05-16_123916.png)
-!(screenshots/Screenshot_2025-05-16_152853.png)
+
 ![Image](https://github.com/user-attachments/assets/90669d0a-6e6b-4986-bfba-a69f2ef77f37)
 
 ![Image](https://github.com/user-attachments/assets/d3cd9209-5fab-43cc-903e-dc605b3fec7c)
+![Image](https://github.com/user-attachments/assets/db6976f3-6534-4a8d-aecb-38aedfa42750)
+
+![Image](https://github.com/user-attachments/assets/a9b0f070-0729-4c0d-9703-0460a37bce28)
