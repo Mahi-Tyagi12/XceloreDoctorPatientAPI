@@ -36,3 +36,6 @@ The Postman collection used for testing the APIs is included in the repository a
 !(screenshots/Screenshot_2025-05-16_123916.png)
 !(screenshots/Screenshot_2025-05-16_123916.png)
 !(screenshots/Screenshot_2025-05-16_152853.png)
+![Image](https://github.com/user-attachments/assets/90669d0a-6e6b-4986-bfba-a69f2ef77f37)
+
+![Image](https://github.com/user-attachments/assets/d3cd9209-5fab-43cc-903e-dc605b3fec7c)
