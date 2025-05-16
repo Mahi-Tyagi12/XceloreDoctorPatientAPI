@@ -11,7 +11,7 @@ This project manages doctor and patient information, providing functionalities s
 
 ## 🚀 Setup Instructions
 Clone the repository:
-git clone https://github.com/yourusername/XceloreDoctorPatientAPI.git
+git clone https://github.com/Mahi-Tyagi12/XceloreDoctorPatientAPI.git
 Navigate to the project directory:
 cd XceloreDoctorPatientAPI
 Build the project:
